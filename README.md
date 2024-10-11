@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdu4460
-- 👀 I’m interested in web development, AI/machine learning, video games and their development, psychology, cooking, and working out.
-- 🌱 I’m currently learning Computer Science, AI specifically
+- 👀 I’m interested in making and playing video games, AI and machine learning, and cool tech in general.
+- 🌱 I’m currently learning whatever I find intriguing enough, which is a lot!
 - 💞️ I’m looking to collaborate on anything that would teach me about current technology and good coding practice!
 - 📫 How to reach me: abdulmunem.nerabie@gmail.com
 
